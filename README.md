@@ -20,7 +20,7 @@
 
 # Special Thanks
 
-I would like to express my sincere gratitude to **Fabian Amino**, the CEO of Zelisline, for being an invaluable mentor and guiding me through my junior developer journey. His insights, support, and encouragement have played a significant role in my growth and development as a developer.
+I would like to express my sincere gratitude to **Fabian Amino**, the CEO of **Zelisline Company**, for being an invaluable mentor and guiding me through my junior developer journey. His insights, support, and encouragement have played a significant role in my growth and development as a developer.
 
 ## Contact
 
