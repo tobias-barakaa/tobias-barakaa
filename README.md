@@ -24,7 +24,7 @@ I would like to express my sincere gratitude to **Fabian Amino**, the CEO of Zel
 
 ## Contact
 
-Feel free to reach out if you have any questions or suggestions. You can contact me via email at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out if you have any questions or suggestions. You can contact me via email at [your.email@example.com](mailto:your.tobiasbarakan@gmail.com).
 
 ## License
 
