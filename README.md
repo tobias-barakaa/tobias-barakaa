@@ -15,6 +15,36 @@
   - Best security practices
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/https://twitter.com/ngairatobbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ngairatobbi" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/tobias-ngaira-579536238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tobias-ngaira-579536238/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/17136942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17136942" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/https://twitter.com/ngairatobbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ngairatobbi" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/tobias-ngaira-579536238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tobias-ngaira-579536238/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/17136942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17136942" height="30" width="40" /></a> </p> 
+
+
+# Special Thanks
+
+I would like to express my sincere gratitude to **Fabian Amino**, the CEO of Zelisline, for being an invaluable mentor and guiding me through my junior developer journey. His insights, support, and encouragement have played a significant role in my growth and development as a developer.
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions. You can contact me via email at [your.email@example.com](mailto:your.email@example.com).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- Special thanks to **Fabian Amino**, CEO of Zelisline, for his unwavering support and mentorship.
+- This project utilizes [Library/Tool] for [specific functionality].
+
+
+
+
+
+
+
+
+  
+  
+  
+  <h3 align="left">Languages and Tools:</h3> 
 
 </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobias-barakaa&show_icons=true&locale=en&layout=compact" alt="tobias-barakaa" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobias-barakaa&show_icons=true&locale=en" alt="tobias-barakaa" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobias-barakaa&" alt="tobias-barakaa" /></p>
