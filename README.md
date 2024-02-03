@@ -12,8 +12,7 @@
 - **Database:** PostgreSQL
 - **Security Practices:**
   - Robust data encryption
-  - Best security practices
-  - Managing Keys and OAuth Authorization
+  - Managing Keys **&** OAuth Authorization
 
 
 
