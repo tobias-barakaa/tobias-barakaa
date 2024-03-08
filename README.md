@@ -9,6 +9,7 @@
 
 - **Frontend:** Next.js
 - **Backend:** Python(Django)
+- **Queuing: ** Redis
 - **Database:** PostgreSQL
 - **Security Practices:**
   - Robust data encryption
