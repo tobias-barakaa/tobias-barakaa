@@ -1,7 +1,6 @@
 <body>
   <h1>Hello, I'm Tobias.</h1>
-  <p>I specialize in Full Stack Engineering, seamlessly blending Next.js, Python(Django), and PostgreSQL. Here's what I do: I architect and develop robust web solutions, ensuring your company stays at the forefront of technology. With a focus on protecting your digital assets, I implement data encryption and best security practices. I am the guy who ensures your online presence is both cutting-edge and secure, Let's get to work.</p>
-</body>
+  <p>I specialize in Full Stack Engineering, seamlessly blending Javascript frameworks, Nodejs, and PostgreSQL. Here's what I do: I architect and develop robust web solutions,With a focus on protecting your digital assets, I implement data encryption and best security practices.</body>
 
 <hr />
 
