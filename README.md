@@ -6,9 +6,7 @@
 <hr />
 
 # Tech Stack
-
-- **Frontend:** Next.js
-- **Backend:** Python(Django)
+- **JavaScript Full-Stack Developer**
 - **Queuing:** Redis
 - **Database:** PostgreSQL
 - **Security Practices:**
