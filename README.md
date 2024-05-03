@@ -5,7 +5,7 @@
 <hr />
 
 # Tech Stack
-- **JavaScript Full-Stack Developer**
+- **Stack:** JavaScript Full-Stack Developer
 - **Queuing:** Redis
 - **Database:** PostgreSQL
 - **Security Practices:**
