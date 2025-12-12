@@ -1,49 +1,61 @@
-<body>
-  <h1>Hello, I'm Tobias.</h1>
-  <p>I specialize in Full Stack Engineering, seamlessly blending Javascript frameworks, Nodejs, and PostgreSQL. Here's what I do: I architect and develop robust web solutions,With a focus on protecting your digital assets, I implement data encryption and best security practices.</body>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Tobias+Ngaira;Full+Stack+Engineer;System+Architect;Cloud+Infrastructure+Expert;Tech+Lead+%26+Mentor" alt="Typing SVG" />
+</div>
+<h3 align="center">🚀 Building Scalable, Secure & High-Performance Applications</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
-<hr />
+👨‍💻 About Me
+I specialize in full-stack engineering with a focus on scalability, security, and system architecture. With hands-on experience leading engineering teams and managing GCP infrastructure, I build solutions that grow with your business.
 
-# Tech Stack
-- **Stack:** JavaScript Full-Stack Developer
-- **Queuing:** Redis
-- **Database:** PostgreSQL
-- **Security Practices:**
-  - Robust data encryption
-  - Managing Keys **&** OAuth Authorization
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/https://twitter.com/ngairatobbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ngairatobbi" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/tobias-ngaira-579536238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tobias-ngaira-579536238/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/17136942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17136942" height="30" width="40" /></a> </p> 
-
-
-# Special Thanks
-
-I would like to express my sincere gratitude to **Fabian Amino**, the CEO of **Zelisline Company**, for being an invaluable mentor and guiding me through my junior developer journey. His insights, support, and encouragement have played a significant role in my growth and development as a developer.
-
-## Contact
-
-Feel free to reach out if you have any questions or suggestions. You can contact me via email at tobiasbarakan@gmail.com.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to **Fabian Amino**, CEO of Zelisline, for his unwavering support and mentorship.
-- This project utilizes [Library/Tool] for [specific functionality].
+🏗️ Expert in system design and scalable architecture
+☁️ Led teams on Google Cloud Platform (GCP) infrastructure
+🔒 Passionate about security, data encryption, and OAuth implementation
+🚢 Experienced in deployment, hosting, CI/CD, and containerization
+🤖 Integrating AI into modern applications
+👥 Tech lead with proven team management experience
 
 
+🛠️ Tech Stack
+Frontend & Backend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+Database & Caching
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Coolify-6B46C1?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
+</p>
+Specialized Skills
+
+🤖 AI Integration - Building intelligent features
+🔐 Security - Encryption, OAuth 2.0, key management
+📈 System Design - Scalable architecture patterns
+🔄 Dynamic Routing - Advanced routing solutions
+⚙️ Message Queuing - Redis-based async processing
+🚀 Scaling - From MVP to production at scale
 
 
+📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-
-
-
-  
-  
-  
-  <h3 align="left">Languages and Tools:</h3> 
-
-</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobias-barakaa&show_icons=true&locale=en&layout=compact" alt="tobias-barakaa" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobias-barakaa&show_icons=true&locale=en" alt="tobias-barakaa" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobias-barakaa&" alt="tobias-barakaa" /></p>
+🌟 What I Bring to the Table
