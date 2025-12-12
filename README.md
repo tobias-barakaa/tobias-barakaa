@@ -59,3 +59,11 @@ Specialized Skills
 </p>
 
 🌟 What I Bring to the Table
+const tobias = {
+    role: "Full Stack Engineer & System Architect",
+    expertise: ["System Design", "Cloud Infrastructure", "Team Leadership"],
+    architecture: ["Microservices", "Event-Driven", "Serverless"],
+    cloud: ["GCP", "Docker", "Kubernetes", "Nginx"],
+    currentFocus: "Building scalable AI-powered applications",
+    funFact: "I love optimizing systems for performance and security"
+};
