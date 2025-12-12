@@ -1,79 +1,89 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #24292e;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 10px;
-        }
-        h2 {
-            margin-top: 30px;
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 8px;
-        }
-        h3 {
-            margin-top: 25px;
-        }
-        .badge {
-            display: inline-block;
-            margin: 5px 5px 5px 0;
-        }
-        .social-links {
-            margin: 20px 0;
-        }
-        .social-links a {
-            margin-right: 15px;
-            text-decoration: none;
-        }
-        ul {
-            list-style: none;
-            padding-left: 0;
-        }
-        ul li {
-            margin: 10px 0;
-            padding-left: 25px;
-            position: relative;
-        }
-        ul li:before {
-            content: "•";
-            position: absolute;
-            left: 0;
-            color: #0366d6;
-            font-weight: bold;
-            font-size: 20px;
-        }
-        pre {
-            background: #f6f8fa;
-            padding: 16px;
-            border-radius: 6px;
-            overflow: auto;
-        }
-        code {
-            font-family: 'Courier New', monospace;
-            font-size: 14px;
-        }
-        hr {
-            border: 0;
-            border-top: 1px solid #eaecef;
-            margin: 30px 0;
-        }
-        .center {
-            text-align: center;
-        }
-        strong {
-            color: #0366d6;
-        }
-    </style>
-</head>
-<body>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%" />
+</p>
+
+<h1 align="center">Hi, I'm <strong>Tobias Baraka</strong> 👋</h1>
+
+<p align="center">
+  Software Developer • Backend Engineer • NestJS & GraphQL Enthusiast
+</p>
+
+---
+
+## 🚀 About Me
+- Passionate about backend engineering and scalable architecture  
+- Working extensively with **NestJS**, **GraphQL**, **TypeORM**, and **PostgreSQL**  
+- Building multi-tenant school management systems and real-time chat platforms  
+- Love working on clean folder structures, providers, resolvers, and architectural patterns  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+</p>
+
+---
+
+## 📌 Current Projects
+
+### **🏫 School Management System**
+Multi-tenant platform with:
+- Timetabling engine  
+- Assessment / Marksheet system  
+- Real-time chat (GraphQL Subscriptions + WebSockets)  
+- Assignments & file uploads (Cloudflare / Backblaze)
+
+### **💬 Real-Time Chat System**
+- GraphQL subscriptions  
+- Socket gateway with presence + typing indicators  
+- Redis for presence and message queues  
+- 1-on-1 and group chats for teachers, students, and parents  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobias-barakaa&show_icons=true&theme=dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobias-barakaa&theme=dark" height="160" />
+</p>
+
+---
+
+## 🌐 Social Links
+
+<p align="center">
+  <a href="https://twitter.com">Twitter</a> •
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://github.com/tobias-barakaa">GitHub</a>
+</p>
+
+---
+
+## ⭐ Fun Quote
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
+## 🙌 Thanks for visiting!
+
+<p align="center">✨ Feel free to star the repo if you like my work!</p>
 
 <h1>Hi 👋, I'm Tobias Ngaira</h1>
 
